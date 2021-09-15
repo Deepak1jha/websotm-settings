@@ -1,0 +1,127 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/snap/bin/node">
+      <version-cache version="10.24.1" last-modified="1616773786000" />
+    </local-interpreter>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Dialog" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <trackers>
+      <map>
+        <entry key="1ty8vpOf615wvz7rkhyiAU6v24e">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uQjW7XR4CNsiGQ4LsGGz3NkWJl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uRxW883QRQMg0lEPOIw2GjQ0U4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1uTADwSTdVMN8vLOLxYoOExjziN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1vl6QFjB7Fk0aCREjLrO9soTRzz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1w1VZmvWO7n6sOU6zHN8vP7ut33">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1x4gw156tFwpitSJzvvKFbcbuOU">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xcQg3JAaO79dt4zjXCsfeRKXvY">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xcQvMQfPqjC9vSdJxo4tiLvEA7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1xckUP81DBuZpN3JIObtjKaE9lH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.15472312" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.95" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.33009118" />
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="UUID&#10;ind&#10;in&#10;rain&#10;rai" />
+    <property name="KEYMAP" value="reforma&#10;refo&#10;refor" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="true" />
+    <property name="MarketplacePluginsSearchHistory" value="/sortBy:downloads&#10;tai&#10;ta&#10;react na&#10;react" />
+    <property name="NonModalCommitPromotionState" value="REJECTED" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="UUID&#10;inde&#10;ind&#10;mo&#10;Es" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SvgEditorLayout" value="Editor only" />
+    <property name="app.teamhub.com.google.firebase.auth.FIREBASE_USER" value="{&quot;uid&quot;:&quot;{a5MrtxHwikAed+i06er48lm&quot;,&quot;idToken&quot;:&quot;eyJhbGciOiJSUzI1NiIsImtpZCI6IjEyYWZkYjliOGJmZmMyY2M4ZTU4NGQ2ZWE2ODlmYzEwYTg3MGI2NzgiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiRGVlcGFrIEpoYSIsInBpY3R1cmUiOiJodHRwczovL3NlY3VyZS5ncmF2YXRhci5jb20vYXZhdGFyLzgzZjQxNTVmMTNkYThlYzAwNDU1MDcxNjIzMjQ0NTE0P2Q9aHR0cHMlM0ElMkYlMkZhdmF0YXItbWFuYWdlbWVudC0tYXZhdGFycy51cy13ZXN0LTIucHJvZC5wdWJsaWMuYXRsLXBhYXMubmV0JTJGaW5pdGlhbHMlMkZESi0xLnBuZyIsImlzcyI6Imh0dHBzOi8vc2VjdXJldG9rZW4uZ29vZ2xlLmNvbS90ZWFtaHViLWFwcCIsImF1ZCI6InRlYW1odWItYXBwIiwiYXV0aF90aW1lIjoxNjMxMTAxMDQ4LCJ1c2VyX2lkIjoie2E1TXJ0eEh3aWtBZWQraTA2ZXI0OGxtIiwic3ViIjoie2E1TXJ0eEh3aWtBZWQraTA2ZXI0OGxtIiwiaWF0IjoxNjMxNjk2NjUxLCJleHAiOjE2MzE3MDAyNTEsImVtYWlsIjoiZGVlcGFrQGJvbmFtaXNvZnR3YXJlLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJkZWVwYWtAYm9uYW1pc29mdHdhcmUuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiY3VzdG9tIn19.MBTSnb1TzgSlPcV_-U0YqW-pewqEtpGyZ7Cfs8Nsdu78j7c6nxbyTCqgXi-gckgp9LRMibp7L05XhxPqNPrC7yWFGyn1S2ljSIZ5lwxyv6sKfoQdcPc-JN3-oR2mG_nsuvka2dS4hazpI-ucjz4M3h2oKevKWGrkiEwvPgcWFJ554cDJsMpLfFKJYnUU-VKiNEysHR1BHvoNfgXao8LocwVPawv89ARc0pU-FLIauVzbasuYWjXEDGjQXxvrCkkjgnwev2JwhJ1XTfCuz5Xssjhs-vz0ZO28fiJ69388lcp_TLSaCjvpY9opDyy5gHIsSZPN4VkfQgeMIzyW2HKRdQ&quot;,&quot;refreshToken&quot;:&quot;ACzBnCjFxIBBGNE47JAznX4QVK22qZCieuHQ6cJvorWKBbh9AVVjHJfAccx5auXuRDMmLTHYVAZprOMiXf7FF8eu2tREayCAP6PaBHRpUoNitZo-Jw0uZKpMEu9TOsRtG5n2TFM0dzrQrMB3QU3d9ZlLoAzds_WV0rdMcl4xu5dCjNXLSS_whnc&quot;,&quot;expiresIn&quot;:3600,&quot;createdAt&quot;:1631696651606,&quot;isAnonymous&quot;:false}" />
+    <property name="app.teamhub.team-window-shown" value="true" />
+    <property name="app.teamhub.version" value="14.0" />
+    <property name="appcds.runOnSecondStart" value="WS-211.7442.26-73e90fb40cbe8df5f0989955b66147503020fefd073f4f17bf0393a1bbf6de8a" />
+    <property name="bidi.content.notification.disable" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="completion.ml.enabled.notification.shown" value="true" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="evlsprt3.211" value="11" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Personal&#10;/home/deepak/Desktop/Personal/rn-uber-clone&#10;/home/deepak/Desktop/Demo/react_native_app&#10;/home/deepak/Desktop/Personal/roboadvisor-app&#10;/home/deepak/Desktop/Personal/material-kit-pro-react-native-v1.8.0&#10;/home/deepak/Desktop/bazaarche-web-v2&#10;/home/deepak/Downloads/status.patch&#10;/home/deepak/Desktop/Genini&#10;/home/deepak/Desktop/unichat-course-master" />
+    <property name="file.gist.reindex.count" value="270" />
+    <property name="fileTypeChangedCounter" value="43" />
+    <property name="fileTypeDetectors" value="com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="WS-211.7442.26" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Personal" />
+    <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
+    <property name="mt.showInstallAtom" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.2.2" />
+    <property name="vcs.branch.view.splitter.proportion" value="0.035663337" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.19652265" />
+  </component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="rn-uber-clone-history1" project-path="$USER_HOME$/Desktop/Personal/rn-uber-clone" last-access-time="1629623085025" />
+    </command-history-files>
+  </component>
+  <component name="ToolbarSettingsService">
+    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+</application>

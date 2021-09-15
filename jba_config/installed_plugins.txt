@@ -1,0 +1,15 @@
+String Manipulation
+com.jinsihou.react.snippets
+com.mallowigi
+zielu.gittoolbox
+mobi.hsz.idea.gitignore
+com.wix.react-templates
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv
+com.intellij.lang.jsgraphql
+com.chrisrm.idea.MaterialThemeUI
+com.tabnine.TabNine
+com.intellij.ideolog
+org.intellij.RegexpTester
+app.teamhub
+uk.co.ben-gibson.remote.repository.mapper

@@ -1,0 +1,7 @@
+Force Shortcuts
+Karma
+com.kite.intellij
+com.sjhy.plugin.easycode
+com.tabnine.TabNine
+izhangzhihao.rainbow.brackets
+org.jetbrains.plugins.vue
